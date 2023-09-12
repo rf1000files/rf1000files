@@ -1,0 +1,17 @@
+Arduino download link:
+
+http://www.arduino.cc
+
+
+http://arduino.cc/en/Main/CopyrightNotice
+
+
+Arduino is a registered trademark!
+
+
+***********************************
+>>> 		INFO 		<<< 
+***********************************
+
+Use this Arduino version for Firmware release up to 0.91.48!!!!
+

@@ -1,0 +1,9 @@
+*************************************************
+
+FIRMWARE VERSION is Version 0.91.48 (2014-11-24)
+
+*************************************************
+
+Check out for new firmware:
+https://github.com/RF1000/Repetier-Firmware
+
